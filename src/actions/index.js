@@ -6,6 +6,6 @@ export const increment = () => ({
 })
 
 
-export const decremnt = () => ({
+export const decrement = () => ({
     type: 'DECREMENT'
 })
